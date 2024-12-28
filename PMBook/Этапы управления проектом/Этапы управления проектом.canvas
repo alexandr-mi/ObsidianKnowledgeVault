@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"fc18fa03c1b82baa","type":"text","text":"[[Этапы управления проектом]]","x":-1640,"y":-350,"width":300,"height":60},
+		{"id":"5bafc64ac916ce44","type":"text","text":"[[Инициация (или подготовка).]]","x":-1060,"y":-1120,"width":300,"height":60},
+		{"id":"81212f443b7401f1","type":"text","text":"[[Планирование.]]","x":-1010,"y":-760,"width":250,"height":60},
+		{"id":"a2a3ad76a5b664b5","type":"text","text":"[[Исполнение.]]","x":-1010,"y":-350,"width":250,"height":60},
+		{"id":"7970040059e3e963","type":"text","text":"[[Мониторинг и контроль.]]","x":-1040,"y":60,"width":280,"height":60},
+		{"id":"4229c610b1d36213","type":"text","text":"[[Завершение.]]","x":-1020,"y":460,"width":260,"height":60},
+		{"id":"218f646ca7ebb422","type":"text","text":"[[Цели проекта]]","x":-400,"y":-1310,"width":250,"height":60},
+		{"id":"1604317af02346e9","type":"text","text":"[[Задачи проекта]]","x":-400,"y":-1230,"width":250,"height":60},
+		{"id":"29d0a8d4a7aab525","type":"text","text":"[[Метрики проекта]]","x":-400,"y":-1150,"width":250,"height":60},
+		{"id":"65eae6ba7f63e858","type":"text","text":"[[Бюджет]]","x":-400,"y":-1070,"width":250,"height":60},
+		{"id":"339fdf55e89506f8","x":-400,"y":-990,"width":250,"height":60,"type":"text","text":"[[Сроки]]"},
+		{"id":"15b29c680de2711c","x":-400,"y":-910,"width":250,"height":60,"type":"text","text":"[[Критерии успеха проекта]]"}
+	],
+	"edges":[
+		{"id":"1f47b584228a7887","fromNode":"fc18fa03c1b82baa","fromSide":"right","toNode":"5bafc64ac916ce44","toSide":"left"},
+		{"id":"518344ba9573d8c9","fromNode":"fc18fa03c1b82baa","fromSide":"right","toNode":"81212f443b7401f1","toSide":"left"},
+		{"id":"a0da7f1849264a4f","fromNode":"fc18fa03c1b82baa","fromSide":"right","toNode":"a2a3ad76a5b664b5","toSide":"left"},
+		{"id":"a8715f13b92e24e0","fromNode":"fc18fa03c1b82baa","fromSide":"right","toNode":"7970040059e3e963","toSide":"left"},
+		{"id":"7239ee995a3f6bab","fromNode":"fc18fa03c1b82baa","fromSide":"right","toNode":"4229c610b1d36213","toSide":"left"},
+		{"id":"0a5d37855e1d28a0","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"218f646ca7ebb422","toSide":"left"},
+		{"id":"10dcadea24e317bc","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"1604317af02346e9","toSide":"left"},
+		{"id":"0f7aa70ef67173e5","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"29d0a8d4a7aab525","toSide":"left"},
+		{"id":"66e121bd59d79c14","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"65eae6ba7f63e858","toSide":"left"},
+		{"id":"e91a42a71c4016f9","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"339fdf55e89506f8","toSide":"left"},
+		{"id":"296aeea5356efa26","fromNode":"5bafc64ac916ce44","fromSide":"right","toNode":"15b29c680de2711c","toSide":"left"}
+	]
+}
