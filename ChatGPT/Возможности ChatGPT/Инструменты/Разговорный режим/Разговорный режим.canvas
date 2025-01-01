@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d5208c80d3c1bd0a","type":"text","text":"[[Разговорный режим#^8780fa|Построение диалога]]","x":171,"y":-120,"width":250,"height":60},
+		{"id":"1adefaaa109e76f7","type":"text","text":"[[Разговорный режим#^be5468|Интерактивность]]","x":171,"y":-60,"width":250,"height":60},
+		{"id":"2b296fe29dbe97e4","type":"text","text":"[[Разговорный режим#^0fd2dd|Гибкость]]","x":171,"y":0,"width":250,"height":60},
+		{"id":"57c1729742f64562","type":"text","text":"[[Разговорный режим#^140f2d|Персонализация]]","x":171,"y":60,"width":250,"height":60},
+		{"id":"f8384408bc472e90","x":171,"y":120,"width":250,"height":60,"type":"text","text":"[[Разговорный режим#^ec2bc6|Цель]]"},
+		{"id":"243add321c9e28dc","type":"text","text":"[[Разговорный режим]]","x":-180,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"283faa3a59a20699","fromNode":"243add321c9e28dc","fromSide":"right","toNode":"d5208c80d3c1bd0a","toSide":"left"},
+		{"id":"da732995de07abd2","fromNode":"243add321c9e28dc","fromSide":"right","toNode":"1adefaaa109e76f7","toSide":"left"},
+		{"id":"706168a2bcd18b8c","fromNode":"243add321c9e28dc","fromSide":"right","toNode":"2b296fe29dbe97e4","toSide":"left"},
+		{"id":"c58ca869b840ba55","fromNode":"243add321c9e28dc","fromSide":"right","toNode":"57c1729742f64562","toSide":"left"},
+		{"id":"4c212a8b187e1432","fromNode":"243add321c9e28dc","fromSide":"right","toNode":"f8384408bc472e90","toSide":"left"}
+	]
+}

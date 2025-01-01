@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"93f7e35cd5265e75","type":"text","text":"[[Генерация текста#^5787c4|Ввод данных]]","x":-1010,"y":-240,"width":250,"height":60},
+		{"id":"0515b0be0bf50e8e","type":"text","text":"[[Генерация текста#^343c2d|Как работает генерация текста]]","x":-1010,"y":-340,"width":250,"height":60},
+		{"id":"427cb131456e84ab","x":-1010,"y":-140,"width":250,"height":60,"type":"text","text":"[[Генерация текста#^6389bd|Уточнения (при необходимости)]]"},
+		{"id":"34163737bf3acba8","type":"text","text":"[[Генерация текста#^d8ca35|Анализ запроса]]","x":-660,"y":-240,"width":250,"height":60},
+		{"id":"e3ad8fe49cfdcf72","type":"text","text":"[[Генерация текста#^c07b51|Создание текста]]","x":-660,"y":-140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9a619b11f18c9957","fromNode":"93f7e35cd5265e75","fromSide":"right","toNode":"34163737bf3acba8","toSide":"left"},
+		{"id":"0379e49993a887f4","fromNode":"0515b0be0bf50e8e","fromSide":"bottom","toNode":"93f7e35cd5265e75","toSide":"top"},
+		{"id":"459019b56cce9376","fromNode":"e3ad8fe49cfdcf72","fromSide":"left","toNode":"427cb131456e84ab","toSide":"right"},
+		{"id":"f4e84e2df6ba5af2","fromNode":"34163737bf3acba8","fromSide":"right","toNode":"e3ad8fe49cfdcf72","toSide":"right"}
+	]
+}

@@ -26,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d1f73d53fbf2417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8fe4ffd5092f50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6dfd46a79674be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md"
               }
             }
           }
@@ -163,15 +202,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27ed8e0ea5b893fb",
+  "active": "c6dfd46a79674be9",
   "lastOpenFiles": [
-    "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
-    "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
-    "README.md",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.canvas",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md",
+    "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Генерация текста/Генерация текста.md",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Генерация текста/Генерация текста.canvas",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Генерация текста",
+    "ChatGPT/ChatGPT.md",
+    "ChatGPT/v3vsv4.png",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Разговорный режим/Разговорный режим.md",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Разговорный режим/Разговорный режим.canvas",
     "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.canvas",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
     "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.canvas",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Итеративное уточнение/Итеративное уточнение.canvas",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Итеративное уточнение/Итеративное уточнение.md",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Итеративное уточнение",
+    "ChatGPT/Возможности ChatGPT/Инструменты/Разговорный режим",
+    "README.md",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции",
     "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций",
     "ChatGPT/Возможности ChatGPT/Инструменты",
@@ -179,8 +229,6 @@
     "ChatGPT/Возможности ChatGPT",
     "ChatGPT/Отличие ChatGPT от Google",
     "Excalidraw/Drawing 2024-12-30 19.35.00.excalidraw.md",
-    "ChatGPT/ChatGPT.md",
-    "ChatGPT/v3vsv4.png",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)./Цели проекта/Цели проекта.md",
     "ChatGPT",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)./Цели проекта/Цели проекта.canvas",
@@ -192,10 +240,8 @@
     "PMBook/Этапы управления проектом/Этапы управления проектом.canvas",
     "PMBook/Стейкхолдеры/Анализ",
     "PMBook/Стейкхолдеры/Описание/Внешние стейкхолдеры/Внешние стейкхолдеры.md",
-    "PMBook/Стейкхолдеры/Описание",
     "PMBook/Этапы управления проектом/Этапы управления проектом.md",
     "PMBook/Стейкхолдеры/Описание/Внутренние стейкхолдеры/Внутренние стейкхолдеры.md",
-    "Цвета/Цвета.canvas",
     "Excalidraw/Drawing 2024-12-29 11.41.56.excalidraw.md",
     "Внутренние стейкхолдеры^.md",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)./Задачи проекта/Задачи проекта.md",
@@ -204,15 +250,7 @@
     "PMBook/Стейкхолдеры/Внутренние стейкхолдеры/Команда.md",
     "PMBook/Стейкхолдеры/Внутренние стейкхолдеры/Собственники или акционеры.md",
     "PMBook/Стейкхолдеры/Внутренние стейкхолдеры/Менеджмент.md",
-    "PMBook/Стейкхолдеры/Описание/Внутренние стейкхолдеры",
-    "PMBook/Стейкхолдеры/Описание/Внешние стейкхолдеры",
-    "Visual Thinking/Visual Thinking.canvas",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)./Сроки/Сроки.md",
-    "PMBook/Этапы управления проектом/Инициация (или подготовка)./Метрики проекта/Метрики проекта.md",
-    "PMBook/Этапы управления проектом/Инициация (или подготовка)./Критерии успеха проекта/Критерии успеха проекта.md",
-    "PMBook/Этапы управления проектом/Инициация (или подготовка)./Бюджет/Бюджет.md",
-    "PMBook/Этапы управления проектом/Планирование./Планирование..md",
-    "Project manager.canvas",
     "Pasted image 20241227174826.png",
     "Pasted image 20241227174809.png"
   ]

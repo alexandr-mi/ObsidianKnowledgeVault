@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f5e1a7d14d266272","type":"text","text":"[[Итеративное уточнение#^8d438e|Постепенное прояснение]]","x":-80,"y":-100,"width":250,"height":60},
+		{"id":"4437373a99ff92eb","type":"text","text":"[[Итеративное уточнение#^d38f80|Диалоговая корректировка]]","x":-80,"y":-40,"width":250,"height":60},
+		{"id":"252f23d56f555e5c","type":"text","text":"[[Итеративное уточнение#^d21f3f|Циклический процесс]]","x":-80,"y":20,"width":250,"height":60},
+		{"id":"7aa8f2e2738c911f","type":"text","text":"[[Итеративное уточнение#^6567c0|Примеры применения]]","x":-80,"y":80,"width":250,"height":60},
+		{"id":"7f2d644f8cf9d251","x":-80,"y":140,"width":250,"height":60,"type":"text","text":"[[Итеративное уточнение#^221dc7|Преимущества]]"},
+		{"id":"24bf37e9925d0bcb","type":"text","text":"[[Итеративное уточнение]]","x":-440,"y":20,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b5666aeeedce1cdf","fromNode":"24bf37e9925d0bcb","fromSide":"right","toNode":"f5e1a7d14d266272","toSide":"left"},
+		{"id":"29f054b28b7957b6","fromNode":"24bf37e9925d0bcb","fromSide":"right","toNode":"4437373a99ff92eb","toSide":"left"},
+		{"id":"eed2076d3ea4b381","fromNode":"24bf37e9925d0bcb","fromSide":"right","toNode":"252f23d56f555e5c","toSide":"left"},
+		{"id":"c95e585feef213fe","fromNode":"24bf37e9925d0bcb","fromSide":"right","toNode":"7aa8f2e2738c911f","toSide":"left"},
+		{"id":"75ca835d3d606d0e","fromNode":"24bf37e9925d0bcb","fromSide":"right","toNode":"7f2d644f8cf9d251","toSide":"left"}
+	]
+}
