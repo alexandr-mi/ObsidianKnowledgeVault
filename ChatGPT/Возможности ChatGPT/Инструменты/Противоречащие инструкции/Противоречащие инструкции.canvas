@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"51afc00964d3d9cb","type":"text","text":"[[Противоречащие инструкции#^5eeafa|Конфликт между общими правилами модели и запросом]]","x":-260,"y":-300,"width":320,"height":60},
+		{"id":"56a5bf8b2ab436ed","type":"text","text":"[[Противоречащие инструкции#^cbd5e5|Противоречие в одном запросе]]","x":-260,"y":-420,"width":320,"height":60},
+		{"id":"7450f0e21c80d33d","type":"text","text":"[[Противоречащие инструкции#^247641|Изменение инструкций в процессе диалога]]","x":-260,"y":-360,"width":320,"height":60},
+		{"id":"ffa79b4bb935a2e4","type":"text","text":"[[Противоречащие инструкции#^f50667|Ложные вводные или некорректная логика]]","x":-260,"y":-240,"width":320,"height":60},
+		{"id":"9a731f2b12d953f0","type":"text","text":"[[Противоречащие инструкции]]","x":-740,"y":-330,"width":360,"height":60},
+		{"id":"c21021e729d997c7","type":"text","text":"[[Противоречащие инструкции#^dfbad2|Уточнение запроса]]","x":-260,"y":-120,"width":320,"height":60},
+		{"id":"37a1114c5355f1aa","type":"text","text":"[[Противоречащие инструкции#^793bf5|Приоритет внутренним правилам]]","x":-260,"y":-60,"width":320,"height":60},
+		{"id":"b2c5f0c51300d294","type":"text","text":"[[Противоречащие инструкции#^6363fa|Ориентация на последнюю задачу]]","x":-260,"y":0,"width":320,"height":60},
+		{"id":"2d324fd287267e62","type":"text","text":"[[Противоречащие инструкции#^9ca5a3|Предупреждение о невозможности выполнения]]","x":-260,"y":60,"width":320,"height":60},
+		{"id":"a14893d3c9e9ac26","type":"text","text":"[[Противоречащие инструкции#^e8ca4c|Как ChatGPT справляется с противоречащими инструкциями?]]","x":-740,"y":-30,"width":360,"height":60},
+		{"id":"f0d75e68dafc5b72","type":"text","text":"[[Противоречащие инструкции#^0ea314|Формулируйте запросы чётко и подробно]]","x":-260,"y":180,"width":320,"height":60},
+		{"id":"66d7b0ef2ed9d9b4","type":"text","text":"[[Противоречащие инструкции#^ed6878|Разделяйте сложные запросы на несколько шагов]]","x":-260,"y":240,"width":320,"height":60},
+		{"id":"4b395abaa1e74bcd","x":-260,"y":300,"width":320,"height":60,"type":"text","text":"[[Противоречащие инструкции#^3f63e4|Уточняйте, если результат не совпадает с ожиданиями]]"},
+		{"id":"1fc9c9402d7e79f7","type":"text","text":"[[Противоречащие инструкции#^58cecd|Как избежать противоречий?]]","x":-740,"y":240,"width":360,"height":60}
+	],
+	"edges":[
+		{"id":"65c7e24e9d18d52d","fromNode":"9a731f2b12d953f0","fromSide":"right","toNode":"56a5bf8b2ab436ed","toSide":"left"},
+		{"id":"9f50f281ff76992b","fromNode":"9a731f2b12d953f0","fromSide":"right","toNode":"7450f0e21c80d33d","toSide":"left"},
+		{"id":"3953f07170f53f3a","fromNode":"9a731f2b12d953f0","fromSide":"right","toNode":"51afc00964d3d9cb","toSide":"left"},
+		{"id":"9616a574b693ec89","fromNode":"9a731f2b12d953f0","fromSide":"right","toNode":"ffa79b4bb935a2e4","toSide":"left"},
+		{"id":"f708b917ac24320e","fromNode":"a14893d3c9e9ac26","fromSide":"right","toNode":"c21021e729d997c7","toSide":"left"},
+		{"id":"a5b71455a7669b5e","fromNode":"a14893d3c9e9ac26","fromSide":"right","toNode":"37a1114c5355f1aa","toSide":"left"},
+		{"id":"4a41e486404c707b","fromNode":"a14893d3c9e9ac26","fromSide":"right","toNode":"b2c5f0c51300d294","toSide":"left"},
+		{"id":"2eda2128d42843e3","fromNode":"a14893d3c9e9ac26","fromSide":"right","toNode":"2d324fd287267e62","toSide":"left"},
+		{"id":"5ea73dd26e89b997","fromNode":"1fc9c9402d7e79f7","fromSide":"right","toNode":"f0d75e68dafc5b72","toSide":"left"},
+		{"id":"bed069872a43af31","fromNode":"1fc9c9402d7e79f7","fromSide":"right","toNode":"66d7b0ef2ed9d9b4","toSide":"left"},
+		{"id":"a50a7df567da2a5b","fromNode":"1fc9c9402d7e79f7","fromSide":"right","toNode":"4b395abaa1e74bcd","toSide":"left"}
+	]
+}
