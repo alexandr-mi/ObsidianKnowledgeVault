@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md"
+                "file": "README.md"
               }
             }
           }
@@ -165,12 +165,12 @@
   },
   "active": "27ed8e0ea5b893fb",
   "lastOpenFiles": [
+    "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
     "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.md",
     "README.md",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.canvas",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции/Противоречащие инструкции.md",
     "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.canvas",
-    "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций/Применение инструкций.md",
     "ChatGPT/Возможности ChatGPT/Возможности ChatGPT.canvas",
     "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции",
     "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций",
