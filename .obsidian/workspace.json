@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMBook/Этапы управления проектом/Инициация (или подготовка)/Цели проекта/Цели проекта.md",
+                "file": "PRINCE2/PRINCE2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PRINCE2/PRINCE2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PRINCE2/PRINCE2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Неироети/Изображения/Untitled.md"
+                "file": "PRINCE2/PRINCE2.md"
               }
             }
           }
@@ -175,10 +177,13 @@
   },
   "active": "56eacd675a859829",
   "lastOpenFiles": [
+    "PRINCE2/PRINCE2 2017 english.pdf",
+    "PMBook/Этапы управления проектом/Инициация (или подготовка)/Цели проекта/Цели проекта.md",
+    "PRINCE2/PRINCE2.md",
+    "PRINCE2",
+    "Неироети/Изображения/Untitled.md",
     "Неироети/Изображения",
     "Неироети",
-    "PMBook/Этапы управления проектом/Инициация (или подготовка)/Цели проекта/Цели проекта.md",
-    "Неироети/Изображения/Untitled.md",
     "PMBook/Этапы управления проектом/Планирование./Планирование..md",
     "PMBook/Этапы управления проектом/Этапы управления проектом.md",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)/Инициация (или подготовка)..canvas",
@@ -214,15 +219,12 @@
     "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций",
     "ChatGPT/Возможности ChatGPT/Инструменты",
     "ChatGPT/Отличие ChatGPT от Google/Отличие ChatGPT от Google.md",
-    "ChatGPT/Возможности ChatGPT",
-    "ChatGPT/Отличие ChatGPT от Google",
     "Excalidraw/Drawing 2024-12-30 19.35.00.excalidraw.md",
     "PMBook/Стейкхолдеры/Описание/Стейкхолдеры.canvas",
     "PMBook/Стейкхолдеры/Описание/Стейкхолдеры.md",
     "PMBook/Стейкхолдеры/Анализ/Таблица стейкхолдеров.md",
     "PMBook/Стейкхолдеры/Описание/Внешние стейкхолдеры/Внешние стейкхолдеры.md",
     "PMBook/Стейкхолдеры/Описание/Внутренние стейкхолдеры/Внутренние стейкхолдеры.md",
-    "Excalidraw/Drawing 2024-12-29 11.41.56.excalidraw.md",
     "Pasted image 20241227174826.png",
     "Pasted image 20241227174809.png"
   ]
