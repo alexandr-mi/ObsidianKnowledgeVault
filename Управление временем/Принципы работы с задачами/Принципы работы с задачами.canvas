@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4b5924aa96b3bf45","type":"text","text":"[[Принципы работы с задачами#^933b19|Внедряй методы тайм-менеджмента]]","x":-620,"y":-200,"width":250,"height":60},
+		{"id":"44b54df08171996b","type":"text","text":"[[Принципы работы с задачами#^e1d112|Используй визуальную приоритизацию]]","x":-620,"y":-140,"width":250,"height":60},
+		{"id":"8ed8e4447ab0f8f0","type":"text","text":"[[Принципы работы с задачами#^550a65|Дели задачи на подзадачи]]","x":-620,"y":-80,"width":250,"height":60},
+		{"id":"7ca5fa0dbdbc0080","type":"text","text":"[[Принципы работы с задачами#^d20116|Ставь задачи правильно]]","x":-620,"y":-20,"width":250,"height":60},
+		{"id":"7d0e8ef2fa06110b","type":"text","text":"[[Принципы работы с задачами#^2184b3|Не впадай в заблуждение ложной срочности]]","x":-620,"y":40,"width":250,"height":100},
+		{"id":"baa9cffdf31507b6","type":"text","text":"[[Принципы работы с задачами]]","x":-970,"y":-80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e031511cf176fb0f","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"4b5924aa96b3bf45","toSide":"left"},
+		{"id":"556330a5d32c4be2","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"44b54df08171996b","toSide":"left"},
+		{"id":"e75be528d7fef280","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"8ed8e4447ab0f8f0","toSide":"left"},
+		{"id":"9b41dbd89be18c11","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"7ca5fa0dbdbc0080","toSide":"left"},
+		{"id":"9f96ec341559568f","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"7d0e8ef2fa06110b","toSide":"left"}
+	]
+}

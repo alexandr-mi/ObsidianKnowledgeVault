@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"88d5f5d539ac6b99","type":"text","text":"[[Методы управлением временем#^786915|GTD — Getting Things Done]]","x":200,"y":-120,"width":250,"height":60},
+		{"id":"a27cbb38317f8e10","type":"text","text":"[[Методы управлением временем#^214eef|Система Тима Ферриса]]","x":200,"y":-60,"width":250,"height":60},
+		{"id":"1909c125c9162801","type":"text","text":"[[Методы управлением временем#^e9cde3|Система 4D]]","x":200,"y":0,"width":250,"height":60},
+		{"id":"af3be27a176e84a5","type":"text","text":"[[Методы управлением временем#^5a33bb|Принцип 9 дел, или «1-3-5»]]","x":200,"y":60,"width":250,"height":60},
+		{"id":"f51945c0360af721","type":"text","text":"[[Методы управлением временем#^909052|Хронометраж]]","x":200,"y":120,"width":250,"height":60},
+		{"id":"04f858b3346f5230","type":"text","text":"[[Методы управлением временем]]","x":-150,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c8552bc44f594654","fromNode":"04f858b3346f5230","fromSide":"right","toNode":"88d5f5d539ac6b99","toSide":"left"},
+		{"id":"528faf82bfc89051","fromNode":"04f858b3346f5230","fromSide":"right","toNode":"a27cbb38317f8e10","toSide":"left"},
+		{"id":"c3f29ea47935226d","fromNode":"04f858b3346f5230","fromSide":"right","toNode":"1909c125c9162801","toSide":"left"},
+		{"id":"92c1e2a03c1438cf","fromNode":"04f858b3346f5230","fromSide":"right","toNode":"af3be27a176e84a5","toSide":"left"},
+		{"id":"fa25770e8d27261a","fromNode":"04f858b3346f5230","fromSide":"right","toNode":"f51945c0360af721","toSide":"left"}
+	]
+}
