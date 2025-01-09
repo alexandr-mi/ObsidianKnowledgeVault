@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2f110f6440daeb57","type":"text","text":"[[Основы работы с проектами#^bd969e|Выбери методологию проектов]]","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"0df8754e79360a36","x":-125,"y":30,"width":250,"height":60,"type":"text","text":"[[Основы работы с проектами#^2a4e75|Daily standup и еженедельные колы]]"},
+		{"id":"7fe5672b58924f86","x":-125,"y":90,"width":250,"height":60,"type":"text","text":"[[Основы работы с проектами#^7504c0|Держи связь с командой]]"},
+		{"id":"d47b9738c753669a","x":-125,"y":150,"width":250,"height":60,"type":"text","text":"[[Основы работы с проектами#^34102d|Внедряй прозрачность процессов]]"},
+		{"id":"c8322d97eda6f20d","x":-125,"y":210,"width":250,"height":60,"type":"text","text":"[[Основы работы с проектами#^4bc710|Учись делегировать]]"},
+		{"id":"55d9c130dc36a05c","type":"text","text":"[[Основы работы с проектами]]","x":-475,"y":90,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7b7c0a3ad2dad4d1","fromNode":"55d9c130dc36a05c","fromSide":"right","toNode":"2f110f6440daeb57","toSide":"left"},
+		{"id":"b88123181e3443cf","fromNode":"55d9c130dc36a05c","fromSide":"right","toNode":"0df8754e79360a36","toSide":"left"},
+		{"id":"18633d975a9c6084","fromNode":"55d9c130dc36a05c","fromSide":"right","toNode":"7fe5672b58924f86","toSide":"left"},
+		{"id":"77d4a9e84623b13c","fromNode":"55d9c130dc36a05c","fromSide":"right","toNode":"d47b9738c753669a","toSide":"left"},
+		{"id":"607776fd08e5065d","fromNode":"55d9c130dc36a05c","fromSide":"right","toNode":"c8322d97eda6f20d","toSide":"left"}
+	]
+}
