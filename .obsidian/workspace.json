@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRINCE2/PRINCE2.md",
+                "file": "Управление временем/Правила планирования/Правила планирования.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRINCE2/PRINCE2.md",
+                "file": "Управление временем/Правила планирования/Правила планирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRINCE2/PRINCE2.md",
+                "file": "Управление временем/Правила планирования/Правила планирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRINCE2/PRINCE2.md"
+                "file": "Управление временем/Правила планирования/Правила планирования.md"
               }
             }
           }
@@ -175,11 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56eacd675a859829",
+  "active": "27ed8e0ea5b893fb",
   "lastOpenFiles": [
+    "Управление временем/Правила планирования/Правила планирования.canvas",
+    "Управление временем/Правила планирования/Правила планирования.md",
+    "Управление временем/Управление временем.md",
+    "Управление временем/Правила планирования",
+    "PRINCE2/PRINCE2.md",
+    "Управление временем",
     "PRINCE2/PRINCE2 2017 english.pdf",
     "PMBook/Этапы управления проектом/Инициация (или подготовка)/Цели проекта/Цели проекта.md",
-    "PRINCE2/PRINCE2.md",
     "PRINCE2",
     "Неироети/Изображения/Untitled.md",
     "Неироети/Изображения",
@@ -215,16 +220,10 @@
     "ChatGPT/Возможности ChatGPT/Инструменты/Итеративное уточнение",
     "ChatGPT/Возможности ChatGPT/Инструменты/Разговорный режим",
     "README.md",
-    "ChatGPT/Возможности ChatGPT/Инструменты/Противоречащие инструкции",
-    "ChatGPT/Возможности ChatGPT/Инструменты/Применение инструкций",
-    "ChatGPT/Возможности ChatGPT/Инструменты",
     "ChatGPT/Отличие ChatGPT от Google/Отличие ChatGPT от Google.md",
     "Excalidraw/Drawing 2024-12-30 19.35.00.excalidraw.md",
-    "PMBook/Стейкхолдеры/Описание/Стейкхолдеры.canvas",
     "PMBook/Стейкхолдеры/Описание/Стейкхолдеры.md",
     "PMBook/Стейкхолдеры/Анализ/Таблица стейкхолдеров.md",
-    "PMBook/Стейкхолдеры/Описание/Внешние стейкхолдеры/Внешние стейкхолдеры.md",
-    "PMBook/Стейкхолдеры/Описание/Внутренние стейкхолдеры/Внутренние стейкхолдеры.md",
     "Pasted image 20241227174826.png",
     "Pasted image 20241227174809.png"
   ]

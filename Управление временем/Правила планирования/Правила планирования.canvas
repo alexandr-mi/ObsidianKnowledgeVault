@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"70336d813cde91c0","type":"text","text":"[[Правила планирования#^5371a1|Найти удобный планировщик]]","x":-560,"y":-220,"width":250,"height":60},
+		{"id":"f0a77ad54c9fec6e","type":"text","text":"[[Правила планирования#^2e2e1|Выбери формат ведения дел]]","x":-560,"y":-160,"width":250,"height":60},
+		{"id":"006775fe17cc79c7","type":"text","text":"[[Правила планирования#^360f45|Выдели время на планирование]]","x":-560,"y":-100,"width":250,"height":60},
+		{"id":"0227647c7b6b5449","type":"text","text":"[[Правила планирования#^677e03|Сначала планируй отдых и рутину]]","x":-560,"y":-40,"width":250,"height":60},
+		{"id":"baa9cffdf31507b6","type":"text","text":"[[Правила планирования]]","x":-920,"y":-130,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2fd97e520fe6e1bd","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"70336d813cde91c0","toSide":"left"},
+		{"id":"04f4c4179b4ece83","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"f0a77ad54c9fec6e","toSide":"left"},
+		{"id":"80896f3d751fb9bc","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"006775fe17cc79c7","toSide":"left"},
+		{"id":"7c9cd2b65f2c9503","fromNode":"baa9cffdf31507b6","fromSide":"right","toNode":"0227647c7b6b5449","toSide":"left"}
+	]
+}
